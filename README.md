@@ -1,6 +1,6 @@
 # form-contact-portif-easy
 
-## Projeto Site super basico Com formulario de contato sem Back-End👈 
+## Projeto Site super basico Com formulario de contato Com Email sem Back-End👈 
 <img alt='print projeto' align="center" height="300" width="230" src="../master/img/print.png">
 
 
